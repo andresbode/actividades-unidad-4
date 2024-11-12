@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(20,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(21,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(80,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(80,37): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(81,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(81,43): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  actividad 2 unidad 4.vcxproj -> C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\x64\Debug\actividad 2 unidad 4.exe

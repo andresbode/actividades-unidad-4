@@ -1,0 +1,44 @@
+﻿  main.cpp
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(16,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(17,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(110,60): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(110,60): warning C4244:         with
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(110,60): warning C4244:         [
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(110,60): warning C4244:             T=int
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(110,60): warning C4244:         ]
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(110,43): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(110,43): warning C4244:         with
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(110,43): warning C4244:         [
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(110,43): warning C4244:             T=int
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(110,43): warning C4244:         ]
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(114,60): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(114,60): warning C4244:         with
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(114,60): warning C4244:         [
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(114,60): warning C4244:             T=int
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(114,60): warning C4244:         ]
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(114,43): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(114,43): warning C4244:         with
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(114,43): warning C4244:         [
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(114,43): warning C4244:             T=int
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(114,43): warning C4244:         ]
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(118,60): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(118,60): warning C4244:         with
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(118,60): warning C4244:         [
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(118,60): warning C4244:             T=int
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(118,60): warning C4244:         ]
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(118,43): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(118,43): warning C4244:         with
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(118,43): warning C4244:         [
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(118,43): warning C4244:             T=int
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(118,43): warning C4244:         ]
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(122,60): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(122,60): warning C4244:         with
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(122,60): warning C4244:         [
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(122,60): warning C4244:             T=int
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(122,60): warning C4244:         ]
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(122,43): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(122,43): warning C4244:         with
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(122,43): warning C4244:         [
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(122,43): warning C4244:             T=int
+C:\Users\andresbode\source\repos\actividad 2 unidad 4\actividad 2 unidad 4\main.cpp(122,43): warning C4244:         ]
+  actividad 2 unidad 4.vcxproj -> C:\Users\andresbode\source\repos\actividad 2 unidad 4\x64\Debug\actividad 2 unidad 4.exe
